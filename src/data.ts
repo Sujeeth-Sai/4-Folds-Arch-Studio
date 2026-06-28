@@ -173,23 +173,23 @@ export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't1',
     quote: '"4 FOLDS DESIGN STUDIO did not just design our coastal residence; they choreographed the sunlight. Every morning, the sunrise climbs across the raw travertine jointing in a way that feels incredibly sacred."',
-    author: 'Elena Rostova',
+    author: 'Nitish Raj',
     role: 'Principal Art Curator',
-    project: 'Big Sur Coastal Pavilions'
+    project: 'Subhishi Valencia'
   },
   {
     id: 't2',
     quote: '"Their fanatical devotion to tactile integrity—the raw weight of the massive cast-bronze doors, the quiet glide of the window panels—turns the simple act of arriving home into cinema."',
-    author: 'Jean-Laurent Laurent',
+    author: 'Jaasmitha',
     role: 'Design Editor & Academic',
-    project: 'The Hakone Slate Retreat'
+    project: 'Rivo Learning Centre'
   },
   {
     id: 't3',
     quote: '"4 FOLDS DESIGN STUDIO balanced mass and weightlessness with ultimate mastery. The Monolith Civic Library has anchored our district, offering citizens a warm, cathedral-like reading chamber."',
-    author: 'Chief Director Kenji Tanaka',
+    author: 'Vamsi Krishnan',
     role: 'Urban Planning Committee Head',
-    project: 'Kyoto Civic Archive'
+    project: 'Shambala Landscape Architecture'
   }
 ];
 

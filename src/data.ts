@@ -1,5 +1,6 @@
 import { Project, Metric, Service, ProcessStep, Testimonial, JournalArticle, Award } from './types';
 
+
 export const PROJECTS: Project[] = [
   {
     id: 'subhishi-valencia',
@@ -7,7 +8,7 @@ export const PROJECTS: Project[] = [
     category: 'Interior Architecture',
     location: 'Hyderabad, India',
     year: '2025',
-    image: '/src/assets/images/subhishi_valencia.jpg',
+    image: "/images/subhishi_valencia.jpg",
     aspect: 'portrait',
     description: 'A luxurious modern dining room featuring a custom warm-wood-inlaid coffered ceiling, a premium white-veined marble table with soft grey-blue upholstered dining chairs, and a spectacular bespoke branch chandelier with frosted glass ginkgo leaf elements.',
     philosophies: ['Ginkgo Glass Chandelier', 'Walnut Inlaid Coffer', 'Book-Matched Marble Dining']
@@ -18,7 +19,7 @@ export const PROJECTS: Project[] = [
     category: 'Landscape Architecture',
     location: 'Hyderabad, India',
     year: '2025',
-    image: '/src/assets/images/shambala_landscape.jpg',
+    image: "/images/shambala_landscape.jpg",
     aspect: 'portrait',
     description: 'An elegant organic outdoor landscape design featuring natural flagstone stone paved walkways, minimalist rectangular dark path lighting, and sophisticated terraced gardens with custom curved stone steps.',
     philosophies: ['Flagstone Pathing', 'Minimalist Rectangular Lamps', 'Terraced Stone Retaining']
@@ -29,7 +30,7 @@ export const PROJECTS: Project[] = [
     category: 'Interior Architecture',
     location: 'Jubilee Hills, Hyderabad',
     year: '2025',
-    image: '/src/assets/images/luxury_bar_room.jpg',
+    image: "/images/luxury_bar_room.jpg",
     aspect: 'portrait',
     description: 'An eclectic luxury speakeasy-inspired lounge. Crafted with a dramatic crimson leopard-patterned coffered ceiling, hand-finished burgundy textured plaster walls, and a glowing custom honey-onyx backlit bar counter meeting a diagonal black-and-white checkered marble floor.',
     philosophies: ['Crimson Coffered Ceilings', 'Backlit Honey-Onyx Counter', 'Duotone Checkered Marble']
@@ -40,7 +41,7 @@ export const PROJECTS: Project[] = [
     category: 'Interior Architecture',
     location: 'Gachibowli, Hyderabad',
     year: '2025',
-    image: '/src/assets/images/my_home_ankura_1.jpg',
+    image: "/images/my_home_ankura_1.jpg",
     aspect: 'portrait',
     description: 'A bespoke luxury master suite at My Home Ankura. Hand-drawn and engineered with a book-matched black marble feature wall, warm gold LED linear backlight troughs, and custom segmented curved velvet headboards.',
     philosophies: ['Backlit Onyx Troughing', 'Curved Segmented Headboard', 'Bespoke Brass Details']
@@ -51,7 +52,7 @@ export const PROJECTS: Project[] = [
     category: 'Educational Architecture',
     location: 'Jubilee Hills, Hyderabad',
     year: '2025',
-    image: '/src/assets/images/rivo_learning_centre.jpg',
+    image: "/images/rivo_learning_centre.jpg",
     aspect: 'portrait',
     description: 'A contemporary learning environment designed with a curved, fair-faced concrete exterior, integrated natural stone walkways, and vibrant modern learning spaces.',
     philosophies: ['Curved Concrete Walls', 'Natural Stone Walkways', 'Playful Modern Branding']
@@ -263,31 +264,31 @@ export const AWARDS: Award[] = [
 
 export const IMMERSIVE_IMAGES = [
   {
-    url: '/src/assets/images/subhishi_valencia.jpg',
+    url: "/images/subhishi_valencia.jpg",
     title: 'Subhishi Valencia',
     desc: 'An ultra-luxury dining space with a branching ginkgo-leaf glass chandelier and book-matched marble. Hyderabad, India.',
     coords: '17.3850° N, 78.4867° E'
   },
   {
-    url: '/src/assets/images/shambala_landscape.jpg',
+    url: "/images/shambala_landscape.jpg",
     title: 'Shambala',
     desc: 'An organic outdoor landscape with natural flagstone pathing and custom stone steps. Hyderabad, India.',
     coords: '17.3850° N, 78.4867° E'
   },
   {
-    url: '/src/assets/images/luxury_bar_room.jpg',
+    url: "/images/luxury_bar_room.jpg",
     title: 'The Leopard Bar Room',
     desc: 'An eclectic luxury speakeasy-inspired lounge with crimson coffered ceilings and backlit honey-onyx counters.',
     coords: '17.4301° N, 78.4077° E'
   },
   {
-    url: '/src/assets/images/my_home_ankura_1.jpg',
+    url: "/images/my_home_ankura_1.jpg",
     title: 'My Home Ankura - Master Suite',
     desc: 'Deep black marble panels detailed with linear ambient backlighting. Hyderabad, India.',
     coords: '17.4483° N, 78.3488° E'
   },
   {
-    url: '/src/assets/images/rivo_learning_centre.jpg',
+    url: "/images/rivo_learning_centre.jpg",
     title: 'Rivo Early Learning Centre',
     desc: 'Contemporary curved fair-faced concrete exterior with playful rabbit-motif branding. Hyderabad, India.',
     coords: '17.4301° N, 78.4077° E'

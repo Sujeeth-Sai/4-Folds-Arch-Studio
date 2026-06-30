@@ -3,8 +3,7 @@ import { Compass, Mail, Phone, Instagram, Linkedin, Globe, ArrowUp } from 'lucid
 
 export default function Footer() {
   const socialLinks = [
-    { name: 'Instagram', icon: <Instagram className="w-4 h-4" />, href: '#' },
-    { name: 'LinkedIn', icon: <Linkedin className="w-4 h-4" />, href: '#' },
+    { name: 'Instagram', icon: <Instagram className="w-4 h-4" />, href: '#https://www.instagram.com/4foldsdesignstudio/' },
     { name: 'Architecture Portal', icon: <Globe className="w-4 h-4" />, href: '#' },
   ];
 

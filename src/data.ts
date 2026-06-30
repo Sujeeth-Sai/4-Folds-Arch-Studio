@@ -173,21 +173,21 @@ export const PROCESS_STEPS: ProcessStep[] = [
 export const TESTIMONIALS: Testimonial[] = [
   {
     id: 't1',
-    quote: '"4 FOLDS DESIGN STUDIO did not just design our coastal residence; they choreographed the sunlight. Every morning, the sunrise climbs across the raw travertine jointing in a way that feels incredibly sacred."',
+    quote: '“The team understood our vision from the beginning and transformed it into a space that feels modern, warm, and practical. Every detail was thoughtfully designed.”',
     author: 'Nitish Raj',
     role: 'Principal Art Curator',
     project: 'Subhishi Valencia'
   },
   {
     id: 't2',
-    quote: '"Their fanatical devotion to tactile integrity—the raw weight of the massive cast-bronze doors, the quiet glide of the window panels—turns the simple act of arriving home into cinema."',
+    quote: '“The landscape blends beautifully with the surroundings. It has become our favorite place to relax and spend time with family.”',
     author: 'Jaasmitha',
     role: 'Design Editor & Academic',
     project: 'Rivo Learning Centre'
   },
   {
     id: 't3',
-    quote: '"4 FOLDS DESIGN STUDIO balanced mass and weightlessness with ultimate mastery. The Monolith Civic Library has anchored our district, offering citizens a warm, cathedral-like reading chamber."',
+    quote: '“The atmosphere they created is exactly what we wanted—premium, inviting, and memorable. Our guests often compliment the interiors.”',
     author: 'Vamsi Krishnan',
     role: 'Urban Planning Committee Head',
     project: 'Shambala Landscape Architecture'
